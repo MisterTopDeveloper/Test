@@ -4,7 +4,7 @@ public class Test {
     public static void main(String[] args) {
         int firstNumber = 79;
         int secondNumber = 23;
-        int a = 25;
+       
 //        System.out.println("First Number = " + firstNumber + ", Second Number = " + secondNumber);
 //        System.out.println("1) Addition '+':");
 //        int sum = firstNumber + secondNumber;
